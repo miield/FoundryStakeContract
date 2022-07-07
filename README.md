@@ -1,1 +1,1 @@
-### Foundry Staking Contract
+### Simple Foundry Staking Contract
